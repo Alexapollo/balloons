@@ -57,9 +57,10 @@ namespace balloons
                 var value = 0;
                 if (tempDict.TryGetValue(array[i], out value))
                 {
-                    if (tempDict[array[i]] == 0) { break; }
+                    if (tempDict[array[i]] != 0) {
                     tempDict[array[i]] = value - 1;
                     positions.Add(i);
+                    }
                 }
 
             }
