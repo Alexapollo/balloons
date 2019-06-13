@@ -1,0 +1,11 @@
+D:\Projects\balloons\bin\Debug\netcoreapp2.1\balloons.deps.json
+D:\Projects\balloons\bin\Debug\netcoreapp2.1\balloons.runtimeconfig.json
+D:\Projects\balloons\bin\Debug\netcoreapp2.1\balloons.runtimeconfig.dev.json
+D:\Projects\balloons\bin\Debug\netcoreapp2.1\balloons.dll
+D:\Projects\balloons\bin\Debug\netcoreapp2.1\balloons.pdb
+D:\Projects\balloons\obj\Debug\netcoreapp2.1\balloons.csprojAssemblyReference.cache
+D:\Projects\balloons\obj\Debug\netcoreapp2.1\balloons.csproj.CoreCompileInputs.cache
+D:\Projects\balloons\obj\Debug\netcoreapp2.1\balloons.AssemblyInfoInputs.cache
+D:\Projects\balloons\obj\Debug\netcoreapp2.1\balloons.AssemblyInfo.cs
+D:\Projects\balloons\obj\Debug\netcoreapp2.1\balloons.dll
+D:\Projects\balloons\obj\Debug\netcoreapp2.1\balloons.pdb

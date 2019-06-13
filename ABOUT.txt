@@ -1,0 +1,15 @@
+INSTRUCTIONS To run
+1. Have installed dotnet framework.
+2. Open a cmd.
+3. Change directory to these folder.
+4. Enter dotnet run and the program will start.
+
+INSTRUCTIONS for use
+The first thing will ask is the Target string like BALLOON
+Then a loop starts and asks for input strings to check
+
+Returns the number of the target string occurred while the process.
+
+
+
+Alexandros Apollo Rodopoulos
